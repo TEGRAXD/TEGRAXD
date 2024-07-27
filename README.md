@@ -39,4 +39,10 @@ It's always good to see ya!
 <br/> <br/>
 
 ## Reach me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tegraxd_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tegarsuganda) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/suganda8) 
+[![X](https://img.shields.io/badge/X-12100E.svg?logo=X&logoColor=white)](https://twitter.com/tegraxd_)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tegarsuganda)
+
+## Donate
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/suganda8)
+[<img src="https://button.ibnux.net/trakteer/tegraxd.png" width="128">](https://trakteer.id/tegraxd)
+[!["Buy me a coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/tegraxd)
