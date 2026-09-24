@@ -22,7 +22,7 @@ It's always good to see ya!
 <h2 align="center">What I do</h2>
 
 <p align="center">
-  Currently freelance. Just writing library.
+  Creating amazing apps for freelance projects.
 </p>
 
 <br>
