@@ -7,9 +7,9 @@ It's always good to see ya!
 
 <h2 align="center">Techstacks</h2>
 <p align="center">
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg alt=laravel width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg alt=flutter width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg alt=kotlin width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
   <img src="./static/express-white.svg" alt=express width="30" height="30"/>
